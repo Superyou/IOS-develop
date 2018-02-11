@@ -7,5 +7,9 @@ A very useful tutorial <https://github.com/eseedo/iOSCourse>
 
 ## Study Notes
 
-1. Download Unity3d
-2. ​
+1. Download Xcode
+2. Popular Programing language **Swift** and **Objective-C***
+3. finished first project *starterproject*
+
+
+
